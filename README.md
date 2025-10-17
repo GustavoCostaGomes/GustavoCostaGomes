@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082"/>
 
-
 # Gustavo Gomes
 
 **`Desenvolvedor Fullstack `**
@@ -72,5 +71,9 @@ Prazer, me chamo Gustavo da Costa Gomes e sou de São José dos Campos. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+<br>
+<br>
+<br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCostaGomes&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082&section=footer"/>
