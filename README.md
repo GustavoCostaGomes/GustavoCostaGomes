@@ -2,19 +2,39 @@
 
 # Gustavo Gomes
 
-**`Desenvolvedor Fullstack `**
+**`Fullstack Developer`**
 
-<p align = justify>
-Prazer, me chamo Gustavo da Costa Gomes e sou de São José dos Campos. Atualmente estou cursando o 3° ano do ensino médio integrado ao técnico de desenvolvimento de sistemas na ETEC Ilza Nascimento Pintus. Sou aficionado em programação sempre buscando aprimorar meus conhecimentos e aprender novas tecnologias, tendo interesse em banco de dados, back-end e front-end. 
+<p align="justify">
+Hi! I'm Gustavo Gomes 👋
+
+I am a technology student from Brazil with a technical degree in Systems Development from ETEC Ilza Nascimento Pintus and currently pursuing an Interdisciplinary Bachelor's Degree in Science and Technology at UNIFESP.
+
+I am passionate about software development and constantly improving my skills in backend development, databases, and building technology solutions that solve real-world problems.
+</p>
 
 <div> 
-  <a href="https://www.instagram.com/gstv_gomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavocgomes100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-gomes-6a9a22320/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/gstv_gomes/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:gustavocgomes100@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-gomes-6a9a22320/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
 ---
-## Habilidades
+
+# 🚀 Featured Projects
+
+**🌧 Raintrack**  
+Meteorological monitoring system using ESP32 sensors, Flask backend and an interactive dashboard.
+
+---
+
+# 🛠 Technologies
+
 <img 
     align="left" 
     alt="HTML"
@@ -23,6 +43,7 @@ Prazer, me chamo Gustavo da Costa Gomes e sou de São José dos Campos. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -31,6 +52,7 @@ Prazer, me chamo Gustavo da Costa Gomes e sou de São José dos Campos. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -39,6 +61,7 @@ Prazer, me chamo Gustavo da Costa Gomes e sou de São José dos Campos. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="PHP" 
@@ -47,14 +70,7 @@ Prazer, me chamo Gustavo da Costa Gomes e sou de São José dos Campos. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
@@ -63,6 +79,26 @@ Prazer, me chamo Gustavo da Costa Gomes e sou de São José dos Campos. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+
+
 <img 
     align="left" 
     alt="MySQL" 
@@ -71,9 +107,54 @@ Prazer, me chamo Gustavo da Costa Gomes e sou de São José dos Campos. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+
 <br>
 <br>
 <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCostaGomes&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+---
+
+# 📊 GitHub Stats
+
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCostaGomes&theme=react&hide_border=false&layout=compact"
+/>
+
+---
+
+# 🎯 Goals
+
+Currently seeking **internship opportunities in software development**, where I can apply my knowledge, improve my skills, and contribute to innovative technology solutions.
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082&section=footer"/>
